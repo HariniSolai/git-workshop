@@ -7,3 +7,4 @@
 
  def main():
     print("in main")
+    print(add(2,3))
